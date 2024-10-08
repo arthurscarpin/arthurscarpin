@@ -6,7 +6,7 @@
 
 ## 🚀 Tecnologias:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,go,django,flask,opencv,mysql,sqlite,gcp,git"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,bootstrap,python,go,django,flask,opencv,mysql,sqlite,gcp,git"/>
 </a>
 
 ## 📈 Estatísticas:
