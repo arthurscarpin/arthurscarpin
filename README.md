@@ -1,20 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=2d79c7&height=200&section=header&text=Desenvolvedor%20Back-End&fontSize=60&animation=fadeIn&fontColor=ffffff)
-# Olá, eu sou o Arthur Scarpin
+![header](https://capsule-render.vercel.app/api?type=Waving&color=39005e&height=200&section=header&text=Software%20Engineer%20Backend&fontSize=60&animation=fadeIn&fontColor=ffffff)
+# Hi, I ´m Arthur Scarpin.
 
-- 🎓 Formado em Sistemas de Informação na [UNIP](https://www.unip.br/)
-- 🧠 Aprimorando as minhas habilidades em programação na [ALURA](https://www.alura.com.br/)
+- 🎓 Graduated in Information Systems from [UNIP](https://www.unip.br/)
+- 🧠 Enhancing my programming skills at [ALURA](https://www.alura.com.br/)
+- 💼 Working at [Accenture](https://www.accenture.com/br-pt)
 
-## 🚀 Tecnologias:
+## 🚀 Techs:
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,ts,python,django,flask,go,mysql,postgres,gcp,git,docker"/>
 </a>
 
-## 📈 Estatísticas:
+## 📈 Statistics:
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurscarpin&layout=compact&theme=dark" height="150" alt="languages graph"  />
 </div>
 
-## 📱 Redes sociais:
+## 📱 Social Media:
 <div>
     <a href="https://www.linkedin.com/in/dev-arthurscarpin" target="_blank">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/>
@@ -27,4 +28,4 @@
     </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2d79c7&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=39005e&height=120&section=footer"/>
