@@ -6,8 +6,25 @@
 - 💼 Working at [Accenture](https://www.accenture.com/br-pt)
 
 ## 🚀 Techs:
+
+### Frontend
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,ts,python,django,flask,go,mysql,postgres,gcp,git,docker"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts"/>
+</a>
+
+### Backend
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,go"/>
+</a>
+
+### Database
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite"/>
+</a>
+
+### Devops & Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,docker,gcp"/>
 </a>
 
 ## 📈 Statistics:
