@@ -2,7 +2,7 @@
 
 - 🎓 Graduated in Information Systems from **UNIP**.
 - 🧠 Constantly studying programming to improve my skills.
-- 💼 Working at **Accenture Brazil**.
+- 💼 I´m **Software Engineer** at **Accenture Brazil**.
 
 ## Techs 🚀
 
