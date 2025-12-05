@@ -8,7 +8,7 @@
 <br>
 <div>
   <a href = "mailto:scarpinarthur.dev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/dev-arthurscarpin" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/dev-arthurscarpin" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://discord.com/channels/@me"><img loading="lazy" src="https://img.shields.io/badge/Discord-5566e4?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
