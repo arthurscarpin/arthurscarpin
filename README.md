@@ -1,7 +1,7 @@
 ### Hi there, I'm Arthur Scarpin! 👋
 ---
 
-- 💻 I’m **Software Engineer** and **Java Specialist**.
+- 💻 I’m **Software Engineer** and **Java Specialist** at **Porto**.
 - 🎓 Graduated in Information Systems from **UNIP**.
 - 🧠 Constantly studying programming to improve my skills.
 
